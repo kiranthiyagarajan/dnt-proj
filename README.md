@@ -1,1 +1,5 @@
-# dnt-projConflicting changes in main
+<<<<<<< HEAD
+# dnt-projChanges in main
+=======
+# dnt-projChanges in main
+>>>>>>> new-branch
